@@ -22,3 +22,7 @@ MacOS
 ## Run the script
 
 	python analysis.py
+
+or 
+
+	python wierd_pattern.py
